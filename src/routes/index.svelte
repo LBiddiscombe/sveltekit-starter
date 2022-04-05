@@ -6,6 +6,7 @@
 				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
 				quasi. In deleniti eaque aut repudiandae et a id nisi.
 			</p>
+			<a href="/markdown" class="btn btn-primary">Get Started</a>
 		</div>
 	</div>
 </div>
